@@ -33,7 +33,7 @@ export default class Home extends Component {
             </Menu.Item>
             <Menu.Item as="a">Home</Menu.Item>
 
-            <Dropdown item  text="Dropdown">
+            <Dropdown item text="Dropdown">
               <Dropdown.Menu>
                 <Dropdown.Item>List Item</Dropdown.Item>
                 <Dropdown.Item>List Item</Dropdown.Item>
